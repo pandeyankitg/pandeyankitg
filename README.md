@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello, and welcome to my GitHub profile! I'm a mechanical engineer fresher with a strong interest in data analytics, seeking a position as a data analyst. I'm incredibly passionate about the role of data in shaping our world today, and I'm excited to explore this field further.<br><br>With my background in engineering, I have a keen eye for detail and a logical approach to problem-solving that I believe is an asset in the world of data analytics. I have experience using a variety of tools and technologies to work with data, including Python, Power BI, Excel, SQL, and machine learning.<br><br>Through my projects on this platform, I hope to showcase my skills and enthusiasm for data analysis and contribute to the larger community. Thank you for taking the time to visit my profile!
+Currently working as an Associate at Relay Human Cloud, Ahmedabad in the data analytics domain under operations. I previously worked as an Analyst at A3logics skilled in utilizing SQL, and Python for data manipulation and analysis. My expertise includes crafting reports and dashboards to aid decision-making with PowerBI. I resolved data discrepancies through SQL, enhancing data reliability.
+
+With a Bachelor's degree in Mechanical Engineering from Oriental Institute of Science & Technology, I am dedicated to translating raw data into valuable insights. My Python, SQL, Data Visualization, and Advanced Excel certifications complement my analytical abilities. My previous experience at Cynayd Solutions as an Analyst Trainee strengthened my proficiency in Excel and Python.
+
+I am enthusiastic about leveraging my skills in data manipulation, interpretation, and visualization to uncover meaningful patterns that drive informed decision-making. Thank you for taking the time to visit my profile!
 
 
 ## 🌐 Socials:
