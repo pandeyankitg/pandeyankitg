@@ -1,9 +1,9 @@
 # 💫 About Me:
-Currently working as an Associate at Relay Human Cloud, Ahmedabad in the data analytics domain under operations. I previously worked as an Analyst at A3logics skilled in utilizing SQL, and Python for data manipulation and analysis. My expertise includes crafting reports and dashboards to aid decision-making with PowerBI. I resolved data discrepancies through SQL, enhancing data reliability.
+Currently working as an Associate at Relay Human Cloud, Ahmedabad in the data analytics domain under operations. I previously worked as an Analyst at A3logics, skilled in utilizing SQL and Python for data manipulation and analysis. My expertise includes crafting reports and dashboards to aid decision-making with PowerBI, Tableau, and Microsoft Fabric, and resolving data discrepancies through SQL, enhancing data reliability.
 
 With a Bachelor's degree in Mechanical Engineering from Oriental Institute of Science & Technology, I am dedicated to translating raw data into valuable insights. My Python, SQL, Data Visualization, and Advanced Excel certifications complement my analytical abilities. My previous experience at Cynayd Solutions as an Analyst Trainee strengthened my proficiency in Excel and Python.
 
-I am enthusiastic about leveraging my skills in data manipulation, interpretation, and visualization to uncover meaningful patterns that drive informed decision-making. Thank you for taking the time to visit my profile!
+I am enthusiastic about leveraging my skills in data manipulation, interpretation, and visualization to uncover meaningful patterns that drive informed decision-making. Additionally, I am proficient in AWS services like Redshift, S3, Athena, and Glue, and experienced with data extraction tools like Talend and Alteryx. Thank you for taking the time to visit my profile!
 
 
 ## 🌐 Socials:
